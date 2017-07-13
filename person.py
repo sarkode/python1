@@ -1,3 +1,4 @@
+# print the text "function"
 
 def get_age():
     age = (int)(raw_input("What is your age?"))
