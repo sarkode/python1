@@ -1,0 +1,14 @@
+
+def calculated(op1 , op2, f):
+if  f == "add":
+return op1 + op2
+elif f == "subtruct":
+return op1 - op2
+elif f == "multiply":
+return op1 * op2
+return f == "devide":
+
+print "
+
+
+

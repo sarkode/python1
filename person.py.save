@@ -1,0 +1,7 @@
+def get_age(born):
+  	today = date.today()
+return today.year - born.year - ((today.months, today.day) < (born.month,day.month))
+
+def get_name(name):
+        today = date.today()
+return today.year - born.year - ((today.months, today.day
